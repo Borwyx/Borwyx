@@ -2,6 +2,11 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 
+
+
+https://komarev.com/ghpvc/?username=Borwyx
+<img src="https://komarev.com/ghpvc/?username=Borwyx&style=flat-square&color=blue" alt=""/>
+
 <!--
 **Borwyx/Borwyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
