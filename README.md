@@ -16,10 +16,19 @@
  ---
 </div>
 
-<div id="center" aling="left">
+<div id="center" align="left">
  
- ### :woman_technologist: About Me :
+ ### :man_technologist: About Me :
  
+</div>
+
+<div id="bottom" align="left">
+---
+
+### :hammer_and_wrench: Languages and Tools : 
+ 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  
 </div>
 
 <!--
