@@ -14,8 +14,12 @@
   <img src="https://komarev.com/ghpvc/?username=Borwyx&style=flat-square&color=blue" alt="" align="center"/>
  
  ---
+</div>
+
+<div id="center" aling="left">
  
  ### :woman_technologist: About Me :
+ 
 </div>
 
 <!--
